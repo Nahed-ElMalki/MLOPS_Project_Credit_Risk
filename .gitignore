@@ -205,6 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+<<<<<<< HEAD
 
 venv/
 mlruns/
@@ -213,3 +214,5 @@ mlflow.db
 *.docx
 __pycache__/
 .ipynb_checkpoints/
+=======
+>>>>>>> 010108e63f86a8ea7b5929f4204a0fffac06b1b5
